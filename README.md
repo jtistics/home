@@ -1,3 +1,3 @@
 
-Watch the jtistics [slideshow](http://jtistics.github.com/home/)!
+Watch the jtistics [slideshow](http://jtistics.github.com/home/jtistics.html)!
 
