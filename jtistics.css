@@ -70,3 +70,10 @@ section > ul > li > p:before {
   font-size: smaller;
   font-style: italic;
 }
+
+.reveal div .authors {
+  margin-top: 2em;
+  font-size: 24px;
+  font-style: italic;
+  text-align: center;
+}
